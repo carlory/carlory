@@ -1,0 +1,66 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/28390961?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "范宝发",
+    "email": "fanbaofa@gmail.com",
+    "mobile": "15721511091",
+    "github": "https://github.com/carlory",
+    "blog": "https://carlory.github.io/",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2011.09.01",
+        "2015.06.30"
+      ],
+      "school": "南通大学",
+      "major": "网络工程",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+  ],
+  "workExpList": [
+    {
+      "company_name": "TDB",
+      "department_name": "TDB",
+      "work_time": [
+        "2017.06",
+        null
+      ],
+      "work_desc": "TDB"
+    },
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "TDB",
+      "project_role": "TDB",
+      "project_time": "TDB",
+      "project_desc": "TDB",
+      "project_content": "1TDB"
+    },
+
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 TDB"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
